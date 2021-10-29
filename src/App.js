@@ -232,7 +232,7 @@ function App() {
                           name="spiciness_scale"
                           label="Spiciness Level"
                           type="number"
-                          inputProps={{ min: "0", max: "10", step: "1" }}
+                          inputProps={{ min: "1", max: "10", step: "1" }}
                           fullWidth
                         />
                       )}
