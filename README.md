@@ -3,6 +3,7 @@
 node version: 15.12.0
 npm version: 7.6.3
 
+Also remember to run `yarn` command inside the directory to install the dependencies.
 ## Available Scripts
 
 In the project directory, you can run:
